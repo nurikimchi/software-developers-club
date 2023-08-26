@@ -84,6 +84,17 @@ const ClientHome = () => {
 
           <IndexInformationSection
             title="CREATE WEBSITES"
+            image={['/cube.svg', 'Picture of the react framework.']}
+            boxShadowColor="Orange"
+          >
+            JOIN FOR EXCLUSIVE OPPORTUNITIES TO EMPLOY EXISTING HARD AND SOFT
+            SKILLS IN REAL-WORLD INTERNSHIPS. THIS YEAR, WE ARE WORKING WITH THE
+            CITY OF ELK GROVE TO CREATE A VR ENVIRONMENT OF THE UPCOMING ZOO
+            USING HTML THROUGH A-FRAME. APPLICATION REQUIRED.
+          </IndexInformationSection>
+
+          <IndexInformationSection
+            title="CREATE WEBSITES"
             image={['/html.svg', 'Picture of the react framework.']}
             boxShadowColor="Orange"
           >
